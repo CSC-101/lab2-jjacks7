@@ -6,6 +6,6 @@ def welcome_message(name:str) -> str:
 
    return message
 
-
+#changed email
 message = welcome_message("jjacks94@calpoly.edu")
 print(message)
